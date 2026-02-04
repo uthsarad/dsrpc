@@ -1,4 +1,4 @@
-# CSI3344 Banking RPC System (Three-Tier)
+# Banking RPC System (Three-Tier)
 
 This project implements a simple banking transfer system using Pyro5 RPC and an SQLite database.
 
